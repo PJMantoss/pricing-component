@@ -5,8 +5,17 @@
     scroll-behavior: smooth;
 }
 
-.component {
+/* body {
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+} */
+
+body {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     width: 375px;
+    height: auto;
 }
