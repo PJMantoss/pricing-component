@@ -18,4 +18,5 @@ body {
 
 .plan {
     display: inherit;
+    flex-direction: inherit;
 }
