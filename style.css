@@ -12,10 +12,13 @@ body {
     justify-content: center;
     margin: 3rem auto 0;
     padding: 1rem;
+    background-image: url("./images/bg-top.svg");
     width: 100%;
     max-width: 375px;
     height: auto;
 }
+
+.container {}
 
 .plan {
     display: inherit;
