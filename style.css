@@ -15,3 +15,7 @@ body {
     max-width: 375px;
     height: auto;
 }
+
+.plan {
+    display: inherit;
+}
