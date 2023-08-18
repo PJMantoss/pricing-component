@@ -38,5 +38,5 @@ body {
     border: 0;
     padding: 6px 18px;
     border-radius: 5px;
-    transform: uppercase;
+    text-transform: uppercase;
 }
