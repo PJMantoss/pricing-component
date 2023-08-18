@@ -31,7 +31,7 @@ body {
     justify-content: center;
 }
 
-.learnMore{
+.plan .learnMore{
     background-color: hsl(236, 72%, 79%) to hsl(237, 63%, 64%);
     color: #ffffff;
 }
