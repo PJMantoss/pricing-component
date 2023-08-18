@@ -34,4 +34,5 @@ body {
 .plan .learnMore{
     background-color: hsl(237, 63%, 64%);
     color: #ffffff;
+    border: 0;
 }
