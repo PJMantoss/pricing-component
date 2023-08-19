@@ -36,6 +36,8 @@ body {
     font-size: 3rem;
 }
 
+.plan h2 span {}
+
 .plan .learnMore{
     background-color: hsl(237, 63%, 64%);
     color: #ffffff;
