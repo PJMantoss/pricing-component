@@ -32,9 +32,10 @@ body {
     justify-content: center;
 }
 
+.plan h2, .dollarSign
+
 .plan h2 {
     font-size: 3rem;
-    color: #333333;
 }
 
 .dollarSign {
