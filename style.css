@@ -32,6 +32,10 @@ body {
     justify-content: center;
 }
 
+.plan h2 {
+    font-size: 3rem;
+}
+
 .plan .learnMore{
     background-color: hsl(237, 63%, 64%);
     color: #ffffff;
