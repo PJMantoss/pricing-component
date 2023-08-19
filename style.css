@@ -36,7 +36,7 @@ body {
     font-size: 3rem;
 }
 
-h2 span {
+.plan h2 span, .plan.current h2 span {
     font-size: 0.8rem;
 }
 
