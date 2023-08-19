@@ -42,7 +42,7 @@ body {
     font-size: 0.8rem;
 }
 
-.plan .learnMore .current {
+.plan .learnMore.current {
     background-color: #ffffff;
     color: hsl(237, 63%, 64%);
 }
