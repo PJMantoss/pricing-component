@@ -30,6 +30,7 @@ body {
     flex-direction: inherit;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 
 .plan h2, .dollarSign {
