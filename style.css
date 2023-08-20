@@ -28,8 +28,6 @@ body {
 .plan {
     display: inherit;
     flex-direction: inherit;
-    align-items: center;
-    justify-content: center;
     text-align: center;
 }
 
