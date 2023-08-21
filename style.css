@@ -26,8 +26,8 @@ body {
 }
 
 .plan {
-    display: inherit;
-    flex-direction: inherit;
+    display: flex;
+    flex-direction: column;
     text-align: center;
     justify-content: space-evenly;
 }
