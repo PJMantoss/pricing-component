@@ -29,6 +29,7 @@ body {
     display: inherit;
     flex-direction: inherit;
     text-align: center;
+    justify-content: space-between;
 }
 
 .plan h2, .dollarSign {
