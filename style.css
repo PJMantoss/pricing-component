@@ -8,6 +8,10 @@
 }
 
 body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
     margin: 3rem auto 0;
@@ -15,10 +19,6 @@ body {
 }
 
 .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
     background-image: url("./images/bg-top.svg");
     width: 100%;
     max-width: 375px;
