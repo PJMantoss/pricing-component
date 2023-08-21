@@ -16,13 +16,13 @@ body {
     font-size: 15px;
     margin: 3rem auto 0;
     padding: 1rem;
-    width: 100%;
-    max-width: 375px;
-    height: auto;
 }
 
 .container {
     background-image: url("./images/bg-top.svg");
+    width: 100%;
+    max-width: 375px;
+    height: auto;
 }
 
 .plan {
