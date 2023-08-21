@@ -29,7 +29,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 .plan h2, .dollarSign {
