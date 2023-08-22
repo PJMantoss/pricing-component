@@ -22,7 +22,7 @@ body {
     width: 100%;
     max-width: 375px;
     height: auto;
-    padding: 2rem 0;
+    padding: 2rem 1rem;
 }
 
 .plan {
