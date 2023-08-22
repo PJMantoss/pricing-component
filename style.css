@@ -30,6 +30,7 @@ body {
     flex-direction: column;
     text-align: center;
     justify-content: space-around;
+    margin: 3rem 0;
 }
 
 .plan h2, .dollarSign {
