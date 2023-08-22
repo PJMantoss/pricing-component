@@ -22,7 +22,8 @@ body {
     background-image: url("./images/bg-top.svg");
     width: 100%;
     max-width: 375px;
-    height: 100vh;
+    height: auto;
+    padding: 0 0 2rem 0;
 }
 
 .plan {
