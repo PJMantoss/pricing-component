@@ -23,6 +23,7 @@ body {
     width: 100%;
     max-width: 375px;
     height: 100vh;
+    margin: 5rem 0;
 }
 
 .plan {
