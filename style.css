@@ -67,3 +67,7 @@ body {
     background-color: #ffffff;
     color: hsl(237, 63%, 64%);
 }
+
+.plan .learnMore.current hr {
+    color: #ffffff;
+}
