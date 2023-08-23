@@ -58,6 +58,11 @@ body {
     font-size: 0.8rem;
 }
 
+.plan.professional {
+    background-color: hsl(237, 63%, 64%);
+    color: #ffffff;
+}
+
 .plan hr {
     color: hsl(233, 13%, 49%);
     margin: 1rem 0;
