@@ -43,10 +43,10 @@ body {
 .plan h2 {
     /* width: 3vw; */
     display: flex;
-    /* align-items: center;
-    justify-content: space-around; */
+    align-items: center;
+    /* justify-content: space-around; */
     font-size: 3rem;
-    /* margin: auto; */
+    margin: auto;
 }
 
 .dollarSign {
