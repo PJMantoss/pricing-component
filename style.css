@@ -70,6 +70,10 @@ body {
     color: #ffffff;
 }
 
+.plan.professional h2{
+    color: #ffffff;
+}
+
 .plan hr {
     color: hsl(233, 13%, 49%);
     margin: 1rem 0;
