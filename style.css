@@ -80,6 +80,6 @@ body {
     color: hsl(237, 63%, 64%);
 }
 
-.plan .learnMore.current hr {
+.plan .learnMore.current hr, h2 {
     color: #ffffff;
 }
