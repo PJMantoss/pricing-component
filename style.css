@@ -25,6 +25,10 @@ body {
     padding: 2rem 1rem;
 }
 
+.ourPricing{
+    color: hsl(232, 13%, 33%);
+}
+
 .plan {
     display: flex;
     flex-direction: column;
