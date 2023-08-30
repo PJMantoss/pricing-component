@@ -36,6 +36,10 @@ body {
     padding: 2rem;
 }
 
+.plan p {
+    font-weight: 700;
+}
+
 .plan h2, .dollarSign {
     color: #333333;
 }
