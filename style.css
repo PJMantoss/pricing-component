@@ -42,7 +42,7 @@ body {
 }
 
 .plan h2, .dollarSign {
-    color: #333333;
+    color: hsl(232, 13%, 33%);
 }
 
 .plan h2 {
@@ -50,6 +50,7 @@ body {
     align-items: center;
     font-size: 3rem;
     margin: auto;
+    color
 }
 
 .dollarSign {
