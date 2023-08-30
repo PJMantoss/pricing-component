@@ -44,6 +44,7 @@ body {
 .plan p, h3 {
     font-weight: 700;
     color: hsl(232, 13%, 33%);
+    line-height: 1.6;
 }
 
 .plan h2, .dollarSign {
