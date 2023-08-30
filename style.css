@@ -27,6 +27,7 @@ body {
 
 .ourPricing{
     color: hsl(232, 13%, 33%);
+    text-align: center;
 }
 
 .plan {
