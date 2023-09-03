@@ -33,6 +33,7 @@ body {
 .toggleDiv{
     position: relative;
     height: 100px;
+    width: 240px;
 }
 
 .plan {
