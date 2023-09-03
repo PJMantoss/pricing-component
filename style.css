@@ -30,6 +30,11 @@ body {
     text-align: center;
 }
 
+.toggleDiv{
+    position: relative;
+    height: 100px;
+}
+
 .plan {
     display: flex;
     flex-direction: column;
