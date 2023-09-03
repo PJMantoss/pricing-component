@@ -46,8 +46,8 @@ body {
 .toggleDiv::before{
     content: "";
     position: absolute;
-    height: 30px;
-    width: 30px;
+    height: 50px;
+    width: 50px;
     background-color: hsl(237, 63%, 64%);
     border-radius: 50%;
 }
