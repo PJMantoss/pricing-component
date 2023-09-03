@@ -37,7 +37,7 @@ body {
 .toggleDiv{
     position: relative;
     height: 50px;
-    width: 200px;
+    width: 100px;
     border-radius: 80px;
     background-color: #ffffff;
 }
