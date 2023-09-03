@@ -45,6 +45,7 @@ body {
 
 .toggleDiv::before{
     content: "";
+    position: absolute;
 }
 
 .plan {
