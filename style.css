@@ -48,6 +48,7 @@ body {
     position: absolute;
     height: 30px;
     width: 30px;
+    background-color: hsl(237, 63%, 64%);
     border-radius: 50%;
 }
 
