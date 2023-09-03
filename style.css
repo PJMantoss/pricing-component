@@ -43,6 +43,10 @@ body {
     box-shadow: 0 5px 10x rgba(0,0,0,0.1);
 }
 
+.toggleDiv::before{
+    content: "";
+}
+
 .plan {
     display: flex;
     flex-direction: column;
