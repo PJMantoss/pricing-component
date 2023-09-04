@@ -51,8 +51,8 @@ body {
     background-color: hsl(237, 63%, 64%);
     border-radius: 50%;
     top: 40%;
-    left: 18px;
-    transform: translate(-50%);
+    left: 22px;
+    transform: translate(-40%);
 }
 
 .plan {
