@@ -52,7 +52,7 @@ body {
     border-radius: 50%;
     top: 40%;
     left: 22px;
-    transform: translate(-40%);
+    transform: translateY(-40%);
 }
 
 .plan {
