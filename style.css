@@ -50,7 +50,7 @@ body {
     width: 40px;
     background-color: hsl(237, 63%, 64%);
     border-radius: 50%;
-    top: 50%;
+    top: 40%;
     left: 14px;
     transform: translate(-50%);
 }
