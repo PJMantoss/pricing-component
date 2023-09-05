@@ -49,7 +49,8 @@ body {
     position: absolute;
     height: 40px;
     width: 40px;
-    background-color: hsl(237, 63%, 64%);
+    /* background-color: hsl(237, 63%, 64%); */
+    background-color: #000;
     border-radius: 50%;
     top: 40%;
     left: 8px;
