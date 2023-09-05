@@ -57,6 +57,10 @@ body {
     transform: translateY(-40%);
 }
 
+.toggleDiv.active::before{
+    left: calc(100% - 110px)
+}
+
 .plan {
     display: flex;
     flex-direction: column;
