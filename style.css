@@ -54,6 +54,7 @@ body {
     top: 40%;
     left: 8px;
     transform: translateY(-40%);
+    transition: all 0.3s ease-in-out;
 }
 
 .toggleDiv.active::before{
