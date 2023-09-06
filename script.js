@@ -1,4 +1,4 @@
-const body = document.querySelector("body"),
+const container = document.querySelector(".container"),
     toggle = document.querySelector(".toggleDiv");
 
 toggle.addEventListener("click", () => {
