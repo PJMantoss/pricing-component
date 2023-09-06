@@ -25,6 +25,10 @@ body {
     padding: 2rem 1rem;
 }
 
+.container.dark {
+    background-color: hsl(240, 78%, 98%);
+}
+
 .ourPricing{
     color: hsl(232, 13%, 33%);
     display: flex;
