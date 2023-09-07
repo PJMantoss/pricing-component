@@ -2,6 +2,7 @@ const container = document.querySelector(".container"),
     toggle = document.querySelector(".toggleDiv");
 
     let getMode = localStorage.getItem("mode");
+    if(getMode && getMode === "dark"){}
     console.log(getMode);
 
 toggle.addEventListener("click", () => {
