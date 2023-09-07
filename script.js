@@ -1,7 +1,7 @@
 const container = document.querySelector(".container"),
     toggle = document.querySelector(".toggleDiv");
 
-    let getMode = localStorage.getItem()
+    let getMode = localStorage.getItem("mode");
 
 toggle.addEventListener("click", () => {
     container.classList.toggle("dark");
