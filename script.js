@@ -7,6 +7,8 @@ toggle.addEventListener("click", () => {
     if(!container.classList.contains("dark")){
         return localStorage.setItem("mode", "light");
     }
+
+    localStorage.setItem("mode", "dark");
 });
 
 toggle.addEventListener("click", () => toggle.classList.toggle("active"));
