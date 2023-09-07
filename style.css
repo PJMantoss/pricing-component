@@ -63,7 +63,8 @@ body {
 }
 
 .toggleDiv.active::before{
-    left: calc(100% - 40px - 8px)
+    left: calc(100% - 40px - 8px);
+    background-color: #18191a;
 }
 
 .plan {
