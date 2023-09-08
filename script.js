@@ -4,6 +4,7 @@ const container = document.querySelector(".container"),
     let getMode = localStorage.getItem("mode");
     if(getMode && getMode === "dark"){
         container.classList.toggle("dark");
+        toggle.classList.toggle("active")
     }
     //console.log(getMode);
 
