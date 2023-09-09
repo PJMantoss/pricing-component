@@ -48,6 +48,10 @@ body {
     align-items: center;
 }
 
+.toggle_container h4 {
+    margin: 0 1px;
+}
+
 .toggleDiv{
     position: relative;
     height: 48px;
