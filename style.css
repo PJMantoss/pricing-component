@@ -26,6 +26,10 @@ body {
     transition: all .3s ease-in-out;
 }
 
+.container_annual {
+    display: none;
+}
+
 .container.dark {
     background-color: #18191a;
 }
