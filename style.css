@@ -130,11 +130,11 @@ body {
     color: #ffffff;
 }
 
-.plan.professional .dollarSign{
+.plan.professional .dollarSign, h2, h3{
     color: #ffffff;
 }
 
-.plan.professional h3, p{
+.plan.professional h2{
     color: #ffffff;
 }
 
