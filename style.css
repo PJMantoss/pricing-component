@@ -130,13 +130,13 @@ body {
     color: #ffffff;
 }
 
-.plan.professional .professional_desc, .dollarSign, h3, h2{
+.plan.professional .professional_desc, .dollarSign, h3{
     color: #ffffff;
 }
 
-/* .plan.professional .professional_desc{
+.plan.professional h2{
     color: #ffffff;
-} */
+}
 
 .plan hr {
     color: hsl(233, 13%, 49%);
