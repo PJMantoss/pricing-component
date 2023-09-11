@@ -3,15 +3,15 @@ const containerAnnual = document.querySelector("#containerDivAnnual"),
 
     let getMode = localStorage.getItem("mode");
     if(getMode && getMode === "dark"){
-        container.classList.toggle("dark");
+        containerAnnual.classList.toggle("visible");
         toggle.classList.add("active");
     }
     //console.log(getMode);
 
 toggle.addEventListener("click", () => {
-    container.classList.toggle("dark");
+    containerAnnual.classList.toggle("dark");
 
-    if(!container.classList.contains("dark")){
+    if(!containerAnnual.classList.contains("dark")){
         return localStorage.setItem("mode", "light");
     }
 
