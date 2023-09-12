@@ -31,9 +31,9 @@ body {
     display: none;
 }
 
-.container.visible {
+/* .container.visible {
     background-color: #18191a;
-}
+} */
 
 .container_annual.visible {
     display: block;
