@@ -1,9 +1,9 @@
-const containerAnnual = document.querySelector("#containerDivAnnual"),
+const container = document.querySelector("#containerDivAnnual"),
     toggle = document.querySelector(".toggleDiv");
 
     let getMode = localStorage.getItem("mode");
     if(getMode && getMode === "dark"){
-        containerAnnual.classList.toggle("visible");
+        container.classList.toggle("visible");
         toggle.classList.add("active");
     }
     //console.log(getMode);
