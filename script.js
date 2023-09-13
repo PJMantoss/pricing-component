@@ -9,13 +9,13 @@ const container = document.querySelector("#containerDivAnnual"),
     //console.log(getMode);
 
 toggle.addEventListener("click", () => {
-    container.classList.toggle("dark");
+    container.classList.toggle("visible");
 
-    if(!container.classList.contains("dark")){
+    if(!container.classList.contains("visible")){
         return localStorage.setItem("mode", "light");
     }
 
-    localStorage.setItem("mode", "dark");
+    localStorage.setItem("mode", "visible");
 });
 
-toggle.addEventListener("click", () => toggle.classList.toggle("active"));
+toggle.addEventListener("click", () => toggle.classList.toggle("visible"));
