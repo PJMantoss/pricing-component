@@ -9,9 +9,9 @@ const container = document.querySelector("#containerDivAnnual"),
     //console.log(getMode);
 
 toggle.addEventListener("click", () => {
-    containerAnnual.classList.toggle("dark");
+    container.classList.toggle("dark");
 
-    if(!containerAnnual.classList.contains("dark")){
+    if(!container.classList.contains("dark")){
         return localStorage.setItem("mode", "light");
     }
 
