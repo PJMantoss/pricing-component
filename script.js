@@ -12,7 +12,7 @@ toggle.addEventListener("click", () => {
     container.classList.toggle("visible");
 
     if(!container.classList.contains("visible")){
-        return localStorage.setItem("mode", "light");
+        return localStorage.setItem("mode", "visible");
     }
 
     localStorage.setItem("mode", "visible");
