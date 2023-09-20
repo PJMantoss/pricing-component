@@ -27,7 +27,7 @@ body {
     transition: all .3s ease-in-out;
 }
 
-.container_annual {
+.container.annual {
     display: none;
 }
 
