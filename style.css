@@ -35,7 +35,7 @@ body {
     background-color: #18191a;
 } */
 
-.container_annual.visible {
+.container.annual.visible {
     display: block;
 }
 
