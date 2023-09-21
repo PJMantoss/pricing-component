@@ -1,4 +1,4 @@
-const container = document.querySelector(".container");
+const container = document.querySelector(".container.active");
 let toggle = document.querySelector(".toggleDiv");
 
     // let getMode = localStorage.getItem("mode");
