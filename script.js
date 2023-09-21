@@ -2,8 +2,8 @@ const container = document.querySelector("#containerDiv");
 let toggle = document.querySelector(".toggleDiv");
 
     // let getMode = localStorage.getItem("mode");
-    // if(getMode && getMode === "dark"){
-    //     container.classList.toggle("visible");
+    // if(getMode && getMode === "annual"){
+    //     container.classList.toggle("annual");
     //     toggle.classList.add("active");
     // }
     //console.log(getMode);
