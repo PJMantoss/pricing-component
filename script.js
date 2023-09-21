@@ -11,9 +11,9 @@ const container = document.querySelector("#containerDiv"),
 toggle.addEventListener("click", () => {
     container.classList.toggle("visible");
 
-    if(!container.classList.contains("visible")){
-        return localStorage.setItem("mode", "visible");
-    }
+    // if(!container.classList.contains("visible")){
+    //     return localStorage.setItem("mode", "visible");
+    // }
 
     localStorage.setItem("mode", "visible");
 });
