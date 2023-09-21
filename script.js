@@ -1,5 +1,5 @@
-const container = document.querySelector("#containerDiv"),
-    toggle = document.querySelector(".toggleDiv");
+const container = document.querySelector("#containerDiv");
+let toggle = document.querySelector(".toggleDiv");
 
     // let getMode = localStorage.getItem("mode");
     // if(getMode && getMode === "dark"){
