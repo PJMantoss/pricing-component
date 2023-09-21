@@ -11,7 +11,7 @@ let toggle = document.querySelector(".toggleDiv");
 toggle.addEventListener("click", () => {
     container.classList.toggle("annual");
 
-    // if(!container.classList.contains("visible")){
+    // if(!container.classList.contains("annual")){
     //     return localStorage.setItem("mode", "visible");
     // }
 
