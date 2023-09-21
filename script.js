@@ -9,7 +9,7 @@ let toggle = document.querySelector(".toggleDiv");
     //console.log(getMode);
 
 toggle.addEventListener("click", () => {
-    container.classList.toggle("visible");
+    container.classList.toggle("annual");
 
     // if(!container.classList.contains("visible")){
     //     return localStorage.setItem("mode", "visible");
