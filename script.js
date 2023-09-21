@@ -15,7 +15,7 @@ toggle.addEventListener("click", () => {
     //     return localStorage.setItem("mode", "visible");
     // }
 
-    localStorage.setItem("mode", "visible");
+    // localStorage.setItem("mode", "visible");
 });
 
 toggle.addEventListener("click", () => toggle.classList.toggle("visible"));
