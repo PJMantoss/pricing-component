@@ -1,4 +1,4 @@
-const container = document.querySelector("#containerDiv");
+const container = document.querySelector(".container");
 let toggle = document.querySelector(".toggleDiv");
 
     // let getMode = localStorage.getItem("mode");
@@ -9,7 +9,7 @@ let toggle = document.querySelector(".toggleDiv");
     //console.log(getMode);
 
 toggle.addEventListener("click", () => {
-    container.classList.toggle("annual");
+    container.classList.toggle(".container.active.invisible");
 
     // if(!container.classList.contains("annual")){
     //     return localStorage.setItem("mode", "visible");
