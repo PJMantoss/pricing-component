@@ -39,9 +39,9 @@ body {
     display: block;
 }
 
-.container.active.invisible{
+/* .container.active.invisible{
     display: none;
-}
+} */
 
 .ourPricing{
     color: hsl(232, 13%, 33%);
