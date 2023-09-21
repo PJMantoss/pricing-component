@@ -1,11 +1,11 @@
 const container = document.querySelector("#containerDiv"),
     toggle = document.querySelector(".toggleDiv");
 
-    let getMode = localStorage.getItem("mode");
-    if(getMode && getMode === "dark"){
-        container.classList.toggle("visible");
-        toggle.classList.add("active");
-    }
+    // let getMode = localStorage.getItem("mode");
+    // if(getMode && getMode === "dark"){
+    //     container.classList.toggle("visible");
+    //     toggle.classList.add("active");
+    // }
     //console.log(getMode);
 
 toggle.addEventListener("click", () => {
